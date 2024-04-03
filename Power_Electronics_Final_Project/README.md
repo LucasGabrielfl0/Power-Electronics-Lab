@@ -3,7 +3,9 @@ Repository for the final project of the Power Electronics Laboratory class, focu
 
 ## Getting Started!
 Before running any of the simulations, it's imperative to run the .m file below:
-
+```
+Final_Project.m
+```
 as it contains the values for the circuits components
 
 ## The Buck Converter
